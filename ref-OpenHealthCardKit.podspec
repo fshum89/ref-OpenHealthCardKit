@@ -26,7 +26,7 @@ Pod::Spec.new do |spec|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = "The OpenHealthCardKit module is intended for reference purposes when implementing a system that performs the communication between an iOS based mobile device and a German Health Card (elektronische Gesundheitskarte) using an NFC, Blue Tooth oder USB interface."
 
-  spec.homepage     = "https://github.com/shum89/ref-OpenHealthCardKit"
+  spec.homepage     = "https://github.com/fshum89/ref-OpenHealthCardKit"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -79,7 +79,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/shum89/ref-OpenHealthCardKit.git" }
+  spec.source       = { :git => "https://github.com/fshum89/ref-OpenHealthCardKit.git" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
